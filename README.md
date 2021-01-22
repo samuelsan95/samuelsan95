@@ -10,8 +10,7 @@
 
 ```javascript
 const Samuel = {
-  Frontend: [Javascript, Angular2+, Vue, Javascript, HTML, CSS, Bootstrap,
-            AngularMaterial],
+  Frontend: [Javascript, Angular2+, Vue, Ionic, Javascript, HTML, CSS],
   Backend: [NodeJS],
   ID: [VSCode],
   BBDD: [MySql, PostgreSql, MongoDB],
