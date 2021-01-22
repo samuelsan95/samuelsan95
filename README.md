@@ -5,9 +5,6 @@
 </em></p>
 
 ## A little more about ...
-I'm 25 years old and I'm from Spain.
-I'm passionate about the technical world, with 4 years of experience using web technologies and languages. I have the following skills:
-
 
 ```javascript
 const Samuel = {
