@@ -12,10 +12,10 @@
 ```javascript
 const Samuel = {
   Frontend: [Javascript, Angular2+, Vue, Ionic, Javascript, HTML, CSS],
-  Backend: [NodeJS],
+  Backend: [NodeJS, Python],
   ID: [VSCode],
   BBDD: [MySql, PostgreSql, MongoDB],
-  Devops: [AWS, Heroku],
+  Devops: [AWS, Google Cloud],
   Others: [GIT, Sequelize]
 };
 ```
