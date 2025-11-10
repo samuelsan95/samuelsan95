@@ -11,9 +11,9 @@
 
 ```javascript
 const Samuel = {
-  Frontend: [Javascript, Angular2+, Vue, Ionic, Javascript, HTML, CSS],
+  Frontend: [Javascript, Angular2+, Vue + Vite, Javascript, HTML, CSS],
   Backend: [NodeJS, Python],
-  ID: [VSCode],
+  ID: [VSCode, Cursor],
   BBDD: [MySql, PostgreSql, MongoDB],
   Devops: [AWS, Google Cloud],
   Others: [GIT, Sequelize]
